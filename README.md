@@ -20,9 +20,6 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cs" height="35" alt="csharp logo"  />
 </div>
 
 ###
