@@ -1,3 +1,44 @@
-<h1 align="center">Hi 👋, I'm Dmitry. Android-Developer from St.Petersburg!</h1>
-<p><img align="fill" src="https://github-readme-stats.vercel.app/api/top-langs?username=khvatid&show_icons=true&theme=dracula&locale=en&layout=compact" alt="khvatid" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khvatid&label=Profile%20views&color=0e75b6&style=flat" alt="khvatid" /> </p>
+<h2 align="center">Hi 👋! My name is Dmitry and I'm a Android-Developer from St.Petersburg.</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khvatid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=en&hide_border=true&custom_title=My stats" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=khvatid&locale=en&mode=weekly&theme=darcula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khvatid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=darcula&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="189" src="https://media.tenor.com/bE4k2Xky_iMAAAAC/super-sus-train.gif"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/khvatid/khvatid/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge" height="35" alt="android logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="35" alt="kotlin logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=cs" height="35" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/khvatid/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/khvatid" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="32" height="20" alt="telegram logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
+</div>
+
