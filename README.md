@@ -2,36 +2,32 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=khvatid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img height="150" src="https://media.tenor.com/bE4k2Xky_iMAAAAC/super-sus-train.gif"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khvatid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=darcula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="189" src="https://media.tenor.com/bE4k2Xky_iMAAAAC/super-sus-train.gif"  />
 
-###
 
-<img src="https://raw.githubusercontent.com/khvatid/khvatid/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="left">
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge" height="35" alt="android logo"  />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="35" alt="kotlin logo"  />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=cs" height="35" alt="csharp logo"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="right">
   <a href="https://www.instagram.com/khvatid/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo"  />
   </a>
