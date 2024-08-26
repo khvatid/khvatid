@@ -20,13 +20,7 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
   <img width="10" />
-</div>
-
-###
-
-<div align="right">
   <a href="https://t.me/khvatid" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="32" height="20" alt="telegram logo"  />
+    <img width = "35" height="20" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" alt="telegram logo" />
   </a>
-  </div>
-
+</div>
