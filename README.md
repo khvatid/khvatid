@@ -21,6 +21,6 @@
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
   <img width="10" />
   <a href="https://t.me/khvatid" target="_blank">
-    <img width = "35" height="20" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" alt="telegram logo" />
+    <img align = "right" width = "35" height="35" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" alt="telegram logo" />
   </a>
 </div>
